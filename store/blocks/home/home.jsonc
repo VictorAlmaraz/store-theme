@@ -11,6 +11,8 @@
       "info-card#home",
       "rich-text#question",
       "rich-text#link",
+      "newsletter",
+      "store-testimonials",
       "newsletter"
     ]
   },
@@ -87,7 +89,6 @@
       "textAlignment": "center"
     }
   },
-
   "rich-text#question": {
     "props": {
       "text": "**This is an example store built using the VTEX platform.\nWant to know more?**",
